@@ -1,0 +1,4 @@
+interface:
+  display_name: "桌面 AI 女友视频提示词"
+  short_description: "按桌面 UI、人物、剧情与对白生成生视频提示词"
+  default_prompt: "为我设计一段桌面 AI 女友互动视频提示词，并包含时间轴、字幕 cue sheet 和负面约束。"
